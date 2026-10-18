@@ -1,2 +1,9 @@
-[ ] choose which language to make it in
-[ ] Make a floating window
+x ==> Done
+- ==> Workin on it
+  ==> To do
+
+
+[x] choose which language to make it in --> Starting in python, if there's a resource problem ima switch to rust
+[x] Make a floating window
+[x] Make it able to dock to the sides and hide itself if cursor goes away
+[ ] Add icons for the docks to hold
