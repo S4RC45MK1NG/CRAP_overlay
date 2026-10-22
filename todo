@@ -6,4 +6,6 @@ x ==> Done
 [x] choose which language to make it in --> Starting in python, if there's a resource problem ima switch to rust
 [x] Make a floating window
 [x] Make it able to dock to the sides and hide itself if cursor goes away
-[ ] Add icons for the docks to hold
+[-] Make it resizable
+[-] Add icons for the docks to hold
+[ ] Add left and top docks too
